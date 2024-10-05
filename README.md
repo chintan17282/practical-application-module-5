@@ -3,7 +3,7 @@
 This is project report of analysis done as part of Berkley HAAS ML/AI practical application in Module 5. 
 
 #### Overview
-The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
+The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
 #### Approach 
 There were many variables which were analyzed namely income, occupation, weather, time, marital status, co passengers and presence of children and their choice when they pickup coffee house,  carry away, and expensive or economic restaurants. 
@@ -12,13 +12,15 @@ There were many variables which were analyzed namely income, occupation, weather
     This by no means is an exhaustive list but have tried to common cases that could influence the choice.
 -	Attempt was made to highlight the difference between some of the coupon types to see the trend and influence.
 
-## Report
+## **Report** 
 1. AnalysisReport.docx
-   - This documents details the analyis report detailed for each approach mentioned above.  
+   - This documents details the analyis report detailed for each approach mentioned above.  This document also has all the graphs, analysis summary and conclusions.
+     **(Strongly Suggest to review conclusions a AnalysisReport.docx)**
 
 ## NoteBook 
+_Due to Length of investigation, the analysis was modularised to subsections, to below notebooks_
 1. prompt.ipynb
-   - Original Assignament
+   - Original Assignament   - 
 2. TimeWeather.ipynb
    - Analysis of Time and Weather on the rate of acceptance of coupons
 3. Occupation.ipynb
